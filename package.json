@@ -1,0 +1,1 @@
+{"description":"One-star review of the Moon for the make.fun bounty — writes a single line to /output/entry.txt","license":"MIT","main":"main.ts","name":"moon-one-star-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
